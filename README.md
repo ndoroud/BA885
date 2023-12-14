@@ -13,6 +13,7 @@ familiarize the students with piecing together blocks/modules to build more comp
 Some of the topics covered are
 - Transfer Learning
 - Ensembling
+- CNNs and RNNs
 - Transformers
 - Generative models
 - Unsupervised Learning
